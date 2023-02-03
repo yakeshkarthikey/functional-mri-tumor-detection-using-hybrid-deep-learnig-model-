@@ -11,3 +11,7 @@ A hybrid deep learning model is developed by integrating deep learning and machi
 ![Figure_11_kidney](https://user-images.githubusercontent.com/119998021/215551002-8dcf2047-04dc-4c76-b447-e0a0881f99e6.png)
 ![seg-1](https://user-images.githubusercontent.com/119998021/215551281-99c02759-9ede-4691-b4dd-b581ce1490e3.jpg)
 ![seg-2](https://user-images.githubusercontent.com/119998021/215551297-931732b0-79af-4f8e-a106-8feffa91c06e.jpg)
+![Figure_12_kidney](https://user-images.githubusercontent.com/119998021/216637310-22239994-3b24-45b3-956e-ba111f940aaa.png)
+![nf1](https://user-images.githubusercontent.com/119998021/216637338-712ba910-1ae4-49de-a7f2-9a9e7da58105.png)
+![nf2](https://user-images.githubusercontent.com/119998021/216637355-c7c82972-97e0-43e9-9d79-805ca728976e.jpg)
+![nf3](https://user-images.githubusercontent.com/119998021/216637360-06c5963b-6db0-4adc-9d0c-e5b021cb3aa4.jpg)
