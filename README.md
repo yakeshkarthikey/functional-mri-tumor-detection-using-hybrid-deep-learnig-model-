@@ -1,5 +1,5 @@
 # functional-mri-tumor-detection-using-hybrid-deep-learnig-model
-A hybrid deep learning model is developed by integrating deep learning and machine learning models that is used to detect in tumors in human organs..
+A hybrid deep learning model is developed by integrating deep learning and machine learning models that is used to detect in tumors in human organs.
 ![cnn summary](https://user-images.githubusercontent.com/119998021/215550835-ffc16236-6dee-4d0a-aaf5-8cb06902010c.jpg)
 ![CNN](https://user-images.githubusercontent.com/119998021/215550887-68605c9b-e778-4ff6-b6d4-c3b5a72cd231.jpg)
 ![preprocessed data](https://user-images.githubusercontent.com/119998021/215550915-14a1b219-df8a-4027-b408-587b2b4ab585.jpg)
